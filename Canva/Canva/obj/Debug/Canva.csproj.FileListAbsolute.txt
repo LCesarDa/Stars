@@ -1,0 +1,11 @@
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\Canva\Canva\bin\Debug\Canva.exe.config
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\Canva\Canva\bin\Debug\Canva.exe
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\Canva\Canva\bin\Debug\Canva.pdb
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\Canva\Canva\obj\Debug\Canva.csproj.AssemblyReference.cache
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\Canva\Canva\obj\Debug\Canva.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\Canva\Canva\obj\Debug\Canva.Form1.resources
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\Canva\Canva\obj\Debug\Canva.Properties.Resources.resources
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\Canva\Canva\obj\Debug\Canva.csproj.GenerateResource.cache
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\Canva\Canva\obj\Debug\Canva.csproj.CoreCompileInputs.cache
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\Canva\Canva\obj\Debug\Canva.exe
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\Canva\Canva\obj\Debug\Canva.pdb
